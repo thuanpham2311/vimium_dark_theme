@@ -1,0 +1,65 @@
+div.vimiumHUD {
+  width: auto;
+  left: 207px;
+}
+
+div > .vimiumHintMarker {
+  /* linkhint boxes */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFF785),
+  color-stop(100%,#FFC542));
+  border: 1px solid #E3BE23;
+}
+
+div > .vimiumHintMarker span {
+  /* linkhint text */
+  color: black;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+input#vomnibarInput.vimiumReset {
+	color: #FFF !important;
+  background-color: #111 !important;
+}
+
+#vomnibar {
+   border-color: black;
+   background-color: black;
+}
+
+#vomnibar .vomnibarSearchArea {
+   background-color: #222;
+   border-bottom: #3f3f3f;
+}
+
+#vomnibar input {
+   border-color: #393939;
+}
+
+#vomnibar ul {
+    background-color: #222;
+}
+
+#vomnibar li {
+   border-bottom: #3f3f3f;
+}
+
+#vomnibar li .vomnibarUrl {
+   color: #EAEA99;
+}
+
+#vomnibar li .vomnibarMatch {
+   color: white;
+}
+
+#vomnibar li.vomnibarSelected {
+    background-color: #000000;
+}
+
+#vomnibar li em .vomnibarMatch, #vomnibar li .vomnibarTitle .vomnibarMatch {
+   color: white;
+}
+
+#vomnibar li em, #vomnibar li .vomnibarTitle {
+   color: #ddd;
+}
