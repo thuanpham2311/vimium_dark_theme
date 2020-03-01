@@ -2,6 +2,15 @@ div.vimiumHUD {
   width: auto;
   left: 207px;
 }
+div.vimiumHUD .vimiumHUDSearchArea {
+    background-color: #282120;
+}
+div.vimiumHUD .vimiumHUDSearchAreaInner {
+    color: #F8EFE4;
+}
+div.vimiumHUD .hud-find {
+    background: #F8EFE4;
+}
 
 div > .vimiumHintMarker {
   /* linkhint boxes */
