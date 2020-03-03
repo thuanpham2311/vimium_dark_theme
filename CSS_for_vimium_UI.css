@@ -16,13 +16,10 @@ div.vimiumHUD {
 	left: 207px;
 }
 div.vimiumHUD .vimiumHUDSearchArea {
-	background-color: #f8efe4;
+	background-color: #3f3f3f;
 }
 div.vimiumHUD .vimiumHUDSearchAreaInner {
 	color: #f8efe4;
-}
-div.vimiumHUD .hud-find {
-	background: #f8efe4;
 }
 
 div > .vimiumHintMarker {
