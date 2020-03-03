@@ -1,3 +1,11 @@
+div.vimiumHUD span#hud-find-input,
+div.vimiumHUD span#hud-match-count {
+	color: #3f3f3f;
+}
+div.vimiumHUD .hud-find {
+	background: #f8efe4;
+	border: 1px solid #f8efe4;
+}
 #vomnibar input {
 	color: #f8efe4;
 	background-color: #3f3f3f;
@@ -8,7 +16,7 @@ div.vimiumHUD {
 	left: 207px;
 }
 div.vimiumHUD .vimiumHUDSearchArea {
-	background-color: #3f3f3f;
+	background-color: #f8efe4;
 }
 div.vimiumHUD .vimiumHUDSearchAreaInner {
 	color: #f8efe4;
@@ -49,6 +57,9 @@ input#vomnibarInput.vimiumReset {
 #vomnibar .vomnibarSearchArea {
 	background-color: #222;
 	border-bottom: #3f3f3f;
+}
+
+#vomnibar input {
 }
 
 #vomnibar ul {
