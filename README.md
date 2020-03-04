@@ -12,5 +12,5 @@
 
 ## Install
 
-Open Vimium Options and append the contents of **CSS_for_vimium_UI.css** into CSS for vimium UI
+Open vimium options and append the contents of **CSS_for_vimium_UI.css** into CSS for vimium UI
 ![](img/2020-02-25_15-09.png)
