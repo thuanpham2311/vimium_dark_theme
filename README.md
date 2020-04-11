@@ -1,4 +1,4 @@
-# vimium_theme
+# Vimium Dark Theme
 
 ## Look like this
 
