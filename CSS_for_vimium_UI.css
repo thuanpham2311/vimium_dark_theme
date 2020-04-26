@@ -1,87 +1,87 @@
 div.vimiumHUD span#hud-find-input,
 div.vimiumHUD span#hud-match-count {
-	color: #3f3f3f;
+  color: #3f3f3f;
 }
 div.vimiumHUD .hud-find {
-	background: #f8efe4;
-	border: 1px solid #f8efe4;
+  background: #f8efe4;
+  border: 1px solid #f8efe4;
 }
 #vomnibar input {
-	color: #f8efe4;
-	background-color: #3f3f3f;
-	border-color: #3f3f3f;
+  color: #f8efe4;
+  background-color: #3f3f3f;
+  border-color: #3f3f3f;
 }
 div.vimiumHUD {
-	width: auto;
-	left: 207px;
+  width: auto;
+  left: 207px;
 }
 div.vimiumHUD .vimiumHUDSearchArea {
-	background-color: #3f3f3f;
+  background-color: #3f3f3f;
 }
 div.vimiumHUD .vimiumHUDSearchAreaInner {
-	color: #f8efe4;
+  color: #f8efe4;
 }
 
 div > .vimiumHintMarker {
-	/* linkhint boxes */
-	background: -webkit-gradient(
-		linear,
-		left top,
-		left bottom,
-		color-stop(0%, #fff785),
-		color-stop(100%, #ffc542)
-	);
-	border: 1px solid #e3be23;
+  /* linkhint boxes */
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0%, #fff785),
+    color-stop(100%, #ffc542)
+  );
+  border: 1px solid #e3be23;
 }
 
 div > .vimiumHintMarker span {
-	/* linkhint text */
-	color: black;
-	font-weight: bold;
-	font-size: 12px;
+  /* linkhint text */
+  color: black;
+  font-weight: bold;
+  font-size: 12px;
 }
 
 input#vomnibarInput.vimiumReset {
-	color: #fff !important;
-	background-color: #111 !important;
+  color: #fff !important;
+  background-color: #111 !important;
 }
 
 #vomnibar {
-	border-color: black;
-	background-color: black;
+  border-color: black;
+  background-color: black;
 }
 
 #vomnibar .vomnibarSearchArea {
-	background-color: #222;
-	border-bottom: #3f3f3f;
+  background-color: #222;
+  border-bottom: #3f3f3f;
 }
 
 #vomnibar ul {
-	background-color: #222;
+  background-color: #222;
 }
 
 #vomnibar li {
-	border-bottom: #3f3f3f;
+  border-bottom: #3f3f3f;
 }
 
 #vomnibar li .vomnibarUrl {
-	color: #eaea99;
+  color: #eaea99;
 }
 
 #vomnibar li .vomnibarMatch {
-	color: white;
+  color: white;
 }
 
 #vomnibar li.vomnibarSelected {
-	background-color: #000000;
+  background-color: #000000;
 }
 
 #vomnibar li em .vomnibarMatch,
 #vomnibar li .vomnibarTitle .vomnibarMatch {
-	color: white;
+  color: white;
 }
 
 #vomnibar li em,
 #vomnibar li .vomnibarTitle {
-	color: #ddd;
+  color: #ddd;
 }
