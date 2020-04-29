@@ -14,3 +14,9 @@
 
 Vimium options >> copy and paste from **CSS_for_vimium_UI.css** into CSS for vimium UI
 ![](img/2020-02-25_15-09.png)
+
+## Q & A
+
+**Who you are?**
+
+- I'm noob, just that
