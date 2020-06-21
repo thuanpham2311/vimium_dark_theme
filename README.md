@@ -17,6 +17,6 @@ Vimium options >> copy and paste from **CSS_for_vimium_UI.css** into CSS for vim
 
 ## Q & A
 
-**Who you are?**
+**Who am I?**
 
 - I'm noob, just that
