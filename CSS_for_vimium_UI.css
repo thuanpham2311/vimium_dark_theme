@@ -1,10 +1,10 @@
 div.vimiumHUD span#hud-find-input,
 div.vimiumHUD span#hud-match-count {
-  color: #3f3f3f;
+  color: #f8efe4;
 }
 div.vimiumHUD .hud-find {
-  background: #f8efe4;
-  border: 1px solid #f8efe4;
+  background: #3f3f3f;
+  border: 1px solid #3f3f3f;
 }
 #vomnibar input {
   color: #f8efe4;
