@@ -1,5 +1,7 @@
 # Vimium Dark Theme
 
+For people who live in the darkness. :D (like me)
+
 ## Look like this
 
 ## ![](img/2020-02-25_15-10_1.png)
