@@ -1,6 +1,8 @@
 # Vimium Dark Theme
 
-For people who live in the darkness. :D (like me)
+## Note
+
+- I use Crontab + auto commit script (used API whatthecommit.com), so my commit just auto sync, => sorry I'm so lazy to commit :D
 
 ## Look like this
 
