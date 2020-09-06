@@ -1,9 +1,5 @@
 # Vimium Dark Theme
 
-## Note
-
-- I use Crontab + auto commit script (used API whatthecommit.com), so my commit just auto sync, => sorry I'm so lazy to commit :D
-
 ## Look like this
 
 ## ![](img/2020-02-25_15-10_1.png)
