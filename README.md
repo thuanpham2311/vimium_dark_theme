@@ -1,5 +1,7 @@
 # Vimium Dark Theme
 
+**All my commit message is BS, don't waste your time read that\***
+
 ## Look like this
 
 ## ![](img/2020-02-25_15-10_1.png)
