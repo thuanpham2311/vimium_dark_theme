@@ -1,23 +1,29 @@
+/* make insert box small than before */
+div.vimiumHUD {
+  width: auto;
+  left: 207px;
+}
+
 div.vimiumHUD span#hud-find-input,
 div.vimiumHUD span#hud-match-count {
   color: #f8efe4;
 }
+
 div.vimiumHUD .hud-find {
   background: #3f3f3f;
   border: 1px solid #3f3f3f;
 }
+
 #vomnibar input {
   color: #f8efe4;
   background-color: #3f3f3f;
   border-color: #3f3f3f;
 }
-div.vimiumHUD {
-  width: auto;
-  left: 207px;
-}
+
 div.vimiumHUD .vimiumHUDSearchArea {
   background-color: #3f3f3f;
 }
+
 div.vimiumHUD .vimiumHUDSearchAreaInner {
   color: #f8efe4;
 }
