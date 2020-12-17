@@ -53,8 +53,8 @@ input#vomnibarInput.vimiumReset {
 }
 
 #vomnibar {
-  border-color: black;
-  background-color: black;
+  border-color: #222;
+  background-color: #222;
 }
 
 #vomnibar .vomnibarSearchArea {
