@@ -22,7 +22,3 @@ Vimium options >> copy and paste from **CSS_for_vimium_UI.css** into CSS for vim
 **Who am I?**
 
 - I'm noob, just that
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/thuanpham2311/vimium_dark_theme.svg)](https://starchart.cc/thuanpham2311/vimium_dark_theme)
