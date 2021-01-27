@@ -1,7 +1,5 @@
 # Vimium Dark Theme
 
-**All my commit message is BS, don't waste your time read that**
-
 ## Look like this
 
 ## ![](img/2020-02-25_15-10_1.png)
@@ -16,9 +14,3 @@
 
 Vimium options >> copy and paste from **CSS_for_vimium_UI.css** into CSS for vimium UI
 ![](img/2020-02-25_15-09.png)
-
-## Q & A
-
-**Who am I?**
-
-- I'm noob, just that
